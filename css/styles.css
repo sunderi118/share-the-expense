@@ -67,3 +67,11 @@ body{
     right: 10px;
 
 }
+
+#btn.disabled {
+    opacity:0.5;
+}
+
+#reset.hidden{
+    display:none;
+}
